@@ -1,0 +1,17 @@
+Hello and thank you for purchasing Low Poly Farming Package.
+
+There are 87 prefabs.
+
+Texture is 512*512 png.
+
+All the models have lightmaps generated on import.
+
+Example Scenes have baked lightmaps.
+
+Update 1.1
+- Pack updated to Universal Rendering Pipeline.
+- Example Scenes have realtime directional light and baked indirect.
+
+
+For questions you can contact me at:
+a3deve@gmail.com

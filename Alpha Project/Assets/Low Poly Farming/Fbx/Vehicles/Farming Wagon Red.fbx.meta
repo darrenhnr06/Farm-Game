@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 9164e1c1e0c1d8f4dacee595e867fd75
+timeCreated: 1563294618
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Farming Wagon Red
+    100004: Wagon Tire 1 Left
+    100006: Wagon Tire 1 Right
+    100008: Wagon Tire 2 Left
+    100010: Wagon Tire 2 Right
+    100012: Wagon Tire 3 Left
+    100014: Wagon Tire 3 Right
+    100016: Wagon Tire 1 Left Red
+    100018: Wagon Tire 1 Right Red
+    100020: Wagon Tire 2 Left Red
+    100022: Wagon Tire 2 Right Red
+    100024: Wagon Tire 3 Left Red
+    100026: Wagon Tire 3 Right Red
+    400000: //RootNode
+    400002: Farming Wagon Red
+    400004: Wagon Tire 1 Left
+    400006: Wagon Tire 1 Right
+    400008: Wagon Tire 2 Left
+    400010: Wagon Tire 2 Right
+    400012: Wagon Tire 3 Left
+    400014: Wagon Tire 3 Right
+    400016: Wagon Tire 1 Left Red
+    400018: Wagon Tire 1 Right Red
+    400020: Wagon Tire 2 Left Red
+    400022: Wagon Tire 2 Right Red
+    400024: Wagon Tire 3 Left Red
+    400026: Wagon Tire 3 Right Red
+    2300000: Farming Wagon Red
+    2300002: Wagon Tire 1 Left
+    2300004: Wagon Tire 1 Right
+    2300006: Wagon Tire 2 Left
+    2300008: Wagon Tire 2 Right
+    2300010: Wagon Tire 3 Left
+    2300012: Wagon Tire 3 Right
+    2300014: Wagon Tire 1 Left Red
+    2300016: Wagon Tire 1 Right Red
+    2300018: Wagon Tire 2 Left Red
+    2300020: Wagon Tire 2 Right Red
+    2300022: Wagon Tire 3 Left Red
+    2300024: Wagon Tire 3 Right Red
+    3300000: Farming Wagon Red
+    3300002: Wagon Tire 1 Left
+    3300004: Wagon Tire 1 Right
+    3300006: Wagon Tire 2 Left
+    3300008: Wagon Tire 2 Right
+    3300010: Wagon Tire 3 Left
+    3300012: Wagon Tire 3 Right
+    3300014: Wagon Tire 1 Left Red
+    3300016: Wagon Tire 1 Right Red
+    3300018: Wagon Tire 2 Left Red
+    3300020: Wagon Tire 2 Right Red
+    3300022: Wagon Tire 3 Left Red
+    3300024: Wagon Tire 3 Right Red
+    4300000: Wagon Tire 1 Right
+    4300002: Wagon Tire 2 Right
+    4300004: Wagon Tire 3 Right
+    4300006: Wagon Tire 1 Left
+    4300008: Wagon Tire 2 Left
+    4300010: Wagon Tire 3 Left
+    4300012: Farming Wagon Red
+    4300014: Wagon Tire 1 Right Red
+    4300016: Wagon Tire 2 Right Red
+    4300018: Wagon Tire 3 Right Red
+    4300020: Wagon Tire 1 Left Red
+    4300022: Wagon Tire 2 Left Red
+    4300024: Wagon Tire 3 Left Red
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
